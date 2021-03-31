@@ -1,1 +1,1 @@
-# react-js-class
+# react-js-apps
